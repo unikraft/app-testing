@@ -1,0 +1,43 @@
+# Working directories
+workdir/
+
+# Configuration files
+.config*
+
+# Makefile files are generated
+Makefile
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Archive / Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.gz
+*.rar
+*.cpio
+*.bz2
+*.tar
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
